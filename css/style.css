@@ -4,9 +4,14 @@ header{
     background-image: url(../img/pattern.png);
 }
 
+main{
+    width: 1200px;
+    margin: auto;
+}
+
 .logo{
     width: 250px;
-    margin-left: 80px;
+    margin-left: 100px;
     margin-top: 150px;
 }
 
@@ -30,10 +35,16 @@ header{
 }
 
 .description{
+    font-size: 12px;
     margin-block-start: 0;
     margin-block-end: 0;
 }
 
 .description2{
+    font-size: 12px;
     margin-block-start: 0;
+}
+
+.mark-one{
+    font-size: 25px;
 }
