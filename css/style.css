@@ -65,3 +65,31 @@ main{
     background-color: lightblue;
     font-size: 20px;
 }
+
+aside{
+    width: 1200px;
+    margin: auto;
+}
+
+.aside-title{
+    font-size: 20px;
+    color: gray;
+}
+
+.monitor{
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph{
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/graph.jpg); 
+}
+
+.image-text{
+    font-size: 22px;
+    color: white;
+    padding: 20px;
+}
